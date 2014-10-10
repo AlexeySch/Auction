@@ -1,4 +1,4 @@
 function f()
 {
-    alert("Ver2");
+    alert("Ver3");
 }
