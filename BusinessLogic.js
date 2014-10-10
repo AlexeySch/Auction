@@ -1,4 +1,4 @@
 function f()
 {
-    alert("!");
+    alert("!!!GH");
 }
